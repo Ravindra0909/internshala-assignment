@@ -15,7 +15,7 @@ This project replicates a pixel-perfect mobile app interface using React + Tailw
 - Deployed on Vercel
 
 ## 📱 Live Demo
-[View Deployment on Vercel](#) ← *(Update with your Vercel link)*
+[https://internshala-assignment-ve3m.vercel.app/](#) ← *(Update with your Vercel link)*
 
 ## 🛠️ Run Locally
 
