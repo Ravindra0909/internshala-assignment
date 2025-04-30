@@ -15,12 +15,4 @@ This project replicates a pixel-perfect mobile app interface using React + Tailw
 - Deployed on Vercel
 
 ## 📱 Live Demo
-[https://internshala-assignment-ve3m.vercel.app/](#) ← *(Update with your Vercel link)*
-
-## 🛠️ Run Locally
-
-```bash
-git clone https://github.com/yourusername/AdobeXD-main
-cd AdobeXD-main/frontend
-npm install
-npm run dev
+[https://internshala-assignment-ve3m.vercel.app/](#) 
